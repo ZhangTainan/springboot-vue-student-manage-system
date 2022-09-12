@@ -8,9 +8,9 @@
 
 ![image-20220717105611643](https://cdn.jsdelivr.net/gh/ZhangTainan/Drawing-bed/imgs/image-20220717105611643.png)
 
-### 成品预览地址：http://120.25.123.183:5000/#/
+### [成品预览地址](http://www.programerzhang.cn:5000/)
 
-### 接口文档地址：http://120.25.123.183:8080/swagger-ui.html#/
+### [接口文档地址](http://www.programerzhang.cn:8080/swagger-ui.html)
 
 ### 要求如下：
 
